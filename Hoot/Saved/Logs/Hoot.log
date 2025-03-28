@@ -7245,3 +7245,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.28-01.52.11:154][  9]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2025.03.28-01.52.11:154][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.03.28-01.52.11:364][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.28-01.54.40:960][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.28-01.54.45:997][719]LogSlate: Window 'Save Content' being destroyed
+[2025.03.28-01.54.52:406][112]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for H:/GAME201/Hoot/Hoot/Content/PlaceholderSprites, because GetFilenameOnDisk returned non-matching filename '//stustocoiscifs1.student.vuw.ac.nz/users$/hydepere/GAME201/Hoot/Hoot/Content/PlaceholderSprites'.
+[2025.03.28-01.54.54:294][242]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PlaceholderSprites/Pataka.Pataka
+[2025.03.28-01.54.57:104][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-01.54.57:138][380]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlaceholderSprites/Pataka] ([1] browsable assets)...
+[2025.03.28-01.54.57:140][380]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PlaceholderSprites/Pataka.Pataka]
+[2025.03.28-01.54.57:140][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlaceholderSprites/Pataka]
+[2025.03.28-01.54.57:140][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaceholderSprites/Pataka" FILE="H:/GAME201/Hoot/Hoot/Content/PlaceholderSprites/Pataka.uasset" SILENT=true
+[2025.03.28-01.54.57:198][380]LogSavePackage: Moving output files for package: /Game/PlaceholderSprites/Pataka
+[2025.03.28-01.54.57:198][380]LogSavePackage: Moving 'H:/GAME201/Hoot/Hoot/Saved/Pataka7B5E63A7435B9B22A241E9BDD4EE453A.tmp' to 'H:/GAME201/Hoot/Hoot/Content/PlaceholderSprites/Pataka.uasset'
+[2025.03.28-01.54.57:232][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.240 ms (total: 12.7 sec)
+[2025.03.28-01.54.57:293][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-01.54.57:293][380]LogContentValidation: Enabled validators:
+[2025.03.28-01.54.57:293][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-01.54.57:293][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-01.54.57:293][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-01.54.57:293][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-01.54.57:293][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-01.54.57:293][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-01.54.57:293][380]AssetCheck: /Game/PlaceholderSprites/Pataka Validating asset
