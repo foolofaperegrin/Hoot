@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/GAME201/Hoot/Hoot/Content/BP_Owl.uasset",
+				"H:/GAME201/Hoot/Hoot/Content/Hoot_PlayerController.uasset",
+				"H:/GAME201/Hoot/Hoot/Content/BP_Terrain.uasset",
+				"H:/GAME201/Hoot/Hoot/Content/PlaceholderSprites/HooTerrain1_Sprite.uasset",
+				"H:/GAME201/Hoot/Hoot/Content/PlaceholderSprites/Pataka_Sprite.uasset",
+				"H:/GAME201/Hoot/Hoot/Content/BP_Building.uasset",
+				"H:/GAME201/Hoot/Hoot/Content/Hoot_0.umap",
 				"E:/Unreal/Hoot/Hoot/Content/PlaceholderSprites/HooTerrain1.uasset",
 				"E:/Unreal/Hoot/Hoot/Content/PlaceholderSprites/HooTerrain1_Sprite.uasset",
 				"E:/Unreal/Hoot/Hoot/Content/PlaceholderSprites/hootsprite_Sprite.uasset",
