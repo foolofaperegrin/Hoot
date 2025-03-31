@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/Hoot_0.umap",
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/GrabbableObject_Blueprint.uasset",
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/PlaceholderSprites/boxoutlined.uasset",
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/PlaceholderSprites/box.uasset",
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/PlaceholderSprites/box_Sprite.uasset",
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/PlaceholderSprites/boxoutlined_Sprite.uasset",
+				"C:/Users/emily/OneDrive/Documents/GitHub/Hoot/Hoot/Content/Hoot_PlayerController.uasset",
 				"H:/GAME201/Hoot/Hoot/Content/BP_Owl.uasset",
 				"H:/GAME201/Hoot/Hoot/Content/Hoot_PlayerController.uasset",
 				"H:/GAME201/Hoot/Hoot/Content/BP_Terrain.uasset",
