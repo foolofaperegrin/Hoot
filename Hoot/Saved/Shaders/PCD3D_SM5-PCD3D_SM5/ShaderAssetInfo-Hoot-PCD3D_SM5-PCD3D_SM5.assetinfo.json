@@ -346,6 +346,7 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -383,6 +384,12 @@
 			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "63A212A1720E4BE8E9822C699C289D018D8D1294",
+			"Assets": [
+				"/Game/Environment/Grid/GridMaterialTransparent"
 			]
 		},
 		{
@@ -516,12 +523,6 @@
 			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
-			]
-		},
-		{
-			"ShaderMapHash": "B1D616CC408AA8EEF7462B3EBE8C34BB6CFF70AD",
-			"Assets": [
-				"/Game/PlaceholderSprites/BGTest1"
 			]
 		},
 		{

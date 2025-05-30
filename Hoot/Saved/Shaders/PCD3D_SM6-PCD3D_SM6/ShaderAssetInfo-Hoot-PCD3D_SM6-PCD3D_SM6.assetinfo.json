@@ -2,12 +2,6 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "AF45F502DA7213E94955366377D4AB3C19E5E027",
-			"Assets": [
-				"/Game/PlaceholderSprites/BGTest1"
-			]
-		},
-		{
 			"ShaderMapHash": "1493FF02CFD73EA9AB0712F5CF1F90C3C02A3E5E",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
@@ -257,7 +251,8 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -468,6 +463,12 @@
 			"ShaderMapHash": "E2573EBF5351131F91A96B52350FF2B2602C229A",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "87C359C1DC10B218F4BE111AC10DE2E8328BAC9C",
+			"Assets": [
+				"/Game/Environment/Grid/GridMaterialTransparent"
 			]
 		},
 		{
